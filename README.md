@@ -2,6 +2,8 @@
 
 ICS4UI 2020 Final Assignment. A visual representation of different types of sorting algorithms using playing cards.
 
+Contributors: Jonathan Ge
+
 Date Created: November 10, 2020
 
 Description: This code visually models the behaviours of different sorting algorithms, specifically, bubble sort, insertion sort, 
